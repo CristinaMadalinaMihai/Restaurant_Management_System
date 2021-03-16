@@ -1,0 +1,6 @@
+Order ID: 1
+Date: 2020/05/08 12:56
+Product & price:
+salata de vara --- 5
+ceapa --- 2
+Total price: 7
